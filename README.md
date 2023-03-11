@@ -9,7 +9,7 @@ process, an automatic robot can be created to notify me per hour of the best dro
 that match my preferences.
 
 ## Background
-"Badminton Puzzle" provides a platform for drop-in posts and allows players to filter events
+[Badminton Puzzle](https://www.badmintontw.com/search.php?city=%E5%8F%B0%E5%8C%97%E5%B8%82&area=&day%5B%5D=%E6%98%9F%E6%9C%9F%E4%B8%80&day%5B%5D=%E6%98%9F%E6%9C%9F%E4%BA%8C&day%5B%5D=%E6%98%9F%E6%9C%9F%E4%B8%89&day%5B%5D=%E6%98%9F%E6%9C%9F%E5%9B%9B&time%5B%5D=%E6%99%9A%E4%B8%8A&place=) provides a platform for drop-in posts and allows players to filter events
 based on their preferences, aiming to provide a more seamless playing experience for casual
 players in Taiwan. Automatic notices about drop-in events would further streamline the
 process by alerting players to available playing opportunities in real-time, reducing the time
